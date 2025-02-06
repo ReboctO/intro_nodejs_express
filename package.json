@@ -8,8 +8,16 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "\"# Act03Repo\" \r \"# intro_nodejs_express\" \r \"# intro_nodejs_express\" \r \"# intro_nodejs_express\" \r \"# intro_nodejs_express\"",
   "dependencies": {
     "express": "^4.21.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReboctO/intro_nodejs_express.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ReboctO/intro_nodejs_express/issues"
+  },
+  "homepage": "https://github.com/ReboctO/intro_nodejs_express#readme"
 }
